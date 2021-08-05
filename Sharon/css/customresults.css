@@ -1,0 +1,10 @@
+.nav-bar {
+    height: 75px;
+    max-height: 75px;
+    line-height: 53px;
+    border-bottom: 7px solid #8A0028;
+    border-top: none;
+    box-shadow: none;
+    background-color: #8A0028
+}
+
